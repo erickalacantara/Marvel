@@ -1,4 +1,9 @@
-# DesafioTecnicoAngular
+Objetivo do projeto: Consumir a Api da Marvel
+O que foi feito: Mapeamento das Entidades disponíveis da documentação da API para o retorno das informações de acordo com os dois recursos escolhidos;
+Foi criado um modulo com 2 rotas para exibição das informações, sendo uma rota para cada recurso;
+Utilização de injeção de dependências no Angular, para injeção do serviço de consumo da API;
+
+Utilização do Flexbox e Bootstrap 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
